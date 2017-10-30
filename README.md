@@ -7,4 +7,4 @@
 <h6> Day 5/Flex grid with transitions - https://jacobjslove.github.io/VanillaJS/05%20-%20Flex%20Panel%20Gallery/ </h6>
 <h6> Day 6/Filtering Ajax Data with Fetch ES6 - https://jacobjslove.github.io/VanillaJS/06%20-%20Type%20Ahead/ </h6>
 <h6> Day 7/Array methods 2(Find ,Some ,Every ,FindIndex)- https://jacobjslove.github.io/VanillaJS/07%20-%20Array%20Cardio%20Day%202/ </h6>
-
+<h6> Day 8/Drawing with Canvas- https://jacobjslove.github.io/VanillaJS/08%20-%20Fun%20with%20HTML5%20Canvas/</h6>
