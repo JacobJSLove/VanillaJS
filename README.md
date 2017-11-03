@@ -10,3 +10,4 @@
 <h6> Day 8/Drawing with Canvas - https://jacobjslove.github.io/VanillaJS/08%20-%20Fun%20with%20HTML5%20Canvas/</h6>
 <h6> Day 9/Console Fun- https://jacobjslove.github.io/VanillaJS/09%20-%20Dev%20Tools%20Domination/</h6>
 <h6> Day 10/Checking inBetween boxes with key clicked- https://jacobjslove.github.io/VanillaJS/10%20-%20Hold%20Shift%20and%20Check%20Checkboxes/</h6>
+<h6> Day 11/ Custom Video Player-https://jacobjslove.github.io/VanillaJS/11%20-%20Custom%20Video%20Player/</h6>
