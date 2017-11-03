@@ -38,7 +38,7 @@ function scrub (e) {
 	const scrubTime = (e.offsetX / progress.offsetWidth) * video.duration;
 	video.currentTime = scrubTime;
 }
-
+// Trzeba dodać nasłuchiwanie na wejście w fullscreen ze zmianą ikony (np. Przy pomocy esc) + stylowanie bez full screen 
 function toggleFullScreen() {
 	if (full) {
 		video.webkitRequestFullscreen();
