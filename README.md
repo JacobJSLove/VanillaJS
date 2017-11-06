@@ -13,3 +13,4 @@
 <h6> Day 11/ Custom Video Player - https://jacobjslove.github.io/VanillaJS/11%20-%20Custom%20Video%20Player/</h6>
 <h6> Day 12/ Secret Code - https://jacobjslove.github.io/VanillaJS/12%20-%20Key%20Sequence%20Detection/</h6>
 <h6> Day 13/ Scroll show img - https://jacobjslove.github.io/VanillaJS/13%20-%20Slide%20in%20on%20Scroll/</h6>
+<h6> Day 13/ Referncje do obiektów i ich kopiowanie - https://jacobjslove.github.io/VanillaJS/14%20-%20JavaScript%20References%20VS%20Copying/</h6>
