@@ -15,3 +15,4 @@
 <h6> Day 13/ Scroll show img - https://jacobjslove.github.io/VanillaJS/13%20-%20Slide%20in%20on%20Scroll/</h6>
 <h6> Day 14/ Referncje do obiektów i ich kopiowanie - https://jacobjslove.github.io/VanillaJS/14%20-%20JavaScript%20References%20VS%20Copying/</h6>
 <h6> Day 15/ localStorage - https://jacobjslove.github.io/VanillaJS/15%20-%20LocalStorage/</h6>
+<h6> Day 16/ Shadow on mousemove - https://jacobjslove.github.io/VanillaJS/16%20-%20Mouse%20Move%20Shadow/</h6>
