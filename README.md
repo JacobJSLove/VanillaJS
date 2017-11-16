@@ -20,3 +20,4 @@
 <h6> Day 18/ Counting hours min seconds from time (Map ,Reduce) - https://jacobjslove.github.io/VanillaJS/18%20-%20Adding%20Up%20Times%20with%20Reduce/index.html</h6>
 <h6> Day 19/ Fun with Webcam (Canvas ,Filters, GreenScrean) - https://jacobjslove.github.io/VanillaJS/19%20-%20Webcam%20Fun/</h6>
 <h6> Day 20/ Speach Recognation (Only Firefox ,Chrome) - https://jacobjslove.github.io/VanillaJS/20%20-%20Speech%20Detection/</h6>
+<h6> Day 21/ Geoloaction - https://jacobjslove.github.io/VanillaJS/21%20-%20Geolocation/</h6>
