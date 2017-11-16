@@ -21,3 +21,4 @@
 <h6> Day 19/ Fun with Webcam (Canvas ,Filters, GreenScrean) - https://jacobjslove.github.io/VanillaJS/19%20-%20Webcam%20Fun/</h6>
 <h6> Day 20/ Speach Recognation (Only Firefox ,Chrome) - https://jacobjslove.github.io/VanillaJS/20%20-%20Speech%20Detection/</h6>
 <h6> Day 21/ Geoloaction - https://jacobjslove.github.io/VanillaJS/21%20-%20Geolocation/</h6>
+<h6> Day 22/ Fallowing item with location on page - https://jacobjslove.github.io/VanillaJS/22%20-%20Follow%20Along%20Link%20Highlighter/</h6>
