@@ -24,3 +24,4 @@
 <h6> Day 22/ Fallowing item with location on page - https://jacobjslove.github.io/VanillaJS/22%20-%20Follow%20Along%20Link%20Highlighter/</h6>
 <h6> Day 23/ Text to speach - https://jacobjslove.github.io/VanillaJS/23%20-%20Speech%20Synthesis/</h6>
 <h6> Day 24/ Sticky nav effect - https://jacobjslove.github.io/VanillaJS/24%20-%20Sticky%20Nav/</h6>
+<h6> Day 25/ Event Bubbling and Propagation - https://jacobjslove.github.io/VanillaJS/25%20-%20Event%20Capture,%20Propagation,%20Bubbling%20and%20Once/</h6>
