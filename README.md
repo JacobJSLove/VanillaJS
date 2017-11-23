@@ -26,3 +26,4 @@
 <h6> Day 24/ Sticky nav effect - https://jacobjslove.github.io/VanillaJS/24%20-%20Sticky%20Nav/</h6>
 <h6> Day 25/ Event Bubbling and Propagation - https://jacobjslove.github.io/VanillaJS/25%20-%20Event%20Capture,%20Propagation,%20Bubbling%20and%20Once/</h6>
 <h6> Day 26/ Nav Fallowing background - https://jacobjslove.github.io/VanillaJS/26%20-%20Stripe%20Follow%20Along%20Nav/</h6>
+<h6> Day 27/ Slider Drag And Drop - https://jacobjslove.github.io/VanillaJS/27%20-%20Click%20and%20Drag/</h6>
