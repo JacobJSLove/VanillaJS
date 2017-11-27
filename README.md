@@ -29,3 +29,4 @@
 <h6> Day 27/ Slider Drag And Drop - https://jacobjslove.github.io/VanillaJS/27%20-%20Click%20and%20Drag/</h6>
 <h6> Day 28/ Video Speed Controller - https://jacobjslove.github.io/VanillaJS/28%20-%20Video%20Speed%20Controller/</h6>
 <h6> Day 29/ CountDown Timer - https://jacobjslove.github.io/VanillaJS/29%20-%20Countdown%20Timer/</h6>
+<h6> Day 30/ Mole Game - https://jacobjslove.github.io/VanillaJS/30%20-%20Whack%20A%20Mole/</h6>
